@@ -10,6 +10,8 @@
 
 The implementation of cycle-GAN is from this [repository](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
+The link of datasets will come here soon...If it's greatly needed, you may contact me by GitHub, thanks.
+
 
 ## Content
 
@@ -23,6 +25,8 @@ The implementation of cycle-GAN is from this [repository](https://github.com/jun
   - [Datasets](#datasets)
   - [Implementations](#implementations)
   - [Results](#results)
+    - [From thrones to fixers:](#from-thrones-to-fixers)
+    - [From fixers to thrones](#from-fixers-to-thrones)
   - [References](#references)
 
 <!-- /TOC -->
@@ -127,29 +131,37 @@ The results of **castle2building** training are as follows, which shows little e
 
 The training results of **GoT2Fixers** are as follows, it can be seen that the effect is very good. The natural scenery can be converted into the cold gray tone of Lindong City according to the color tone, and the warmer tone can also be converted into the golden and brilliant tone of Junlin City. The character will automatically adjust to a single light according to the background backlight, face shadow coverage, and the style is extremely close to the game of power.
 
+### From thrones to fixers:
+
 <center>
 
 <img src='img/4_1.png' style='zoom:0.7'>
 
-<img src='img/4_2.png' style='zoom:0.7'>
-
 <img src='img/4_3.png' style='zoom:0.7'>
-
-<img src='img/4_4.png' style='zoom:0.7'>
 
 <img src='img/4_5.png' style='zoom:0.7'>
 
-<img src='img/4_6.png' style='zoom:0.7'>
-
 <img src='img/4_7.png' style='zoom:0.7'>
-
-<img src='img/4_8.png' style='zoom:0.7'>
 
 <img src='img/4_9.png' style='zoom:0.7'>
 
-<img src='img/4_10.png' style='zoom:0.7'>
-
 <img src='img/4_11.png' style='zoom:0.7'>
+
+</center>
+
+### From fixers to thrones
+
+<center>
+
+<img src='img/4_2.png' style='zoom:0.7'>
+
+<img src='img/4_4.png' style='zoom:0.7'>
+
+<img src='img/4_6.png' style='zoom:0.7'>
+
+<img src='img/4_8.png' style='zoom:0.7'>
+
+<img src='img/4_10.png' style='zoom:0.7'>
 
 <img src='img/4_12.png' style='zoom:0.7'>
 
