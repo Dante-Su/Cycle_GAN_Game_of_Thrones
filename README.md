@@ -1,6 +1,6 @@
 # Cycle_GAN_Game_of_Thrones
 
-## Basic
+## Brief Intro
 
 *__Author__=='Danding Su'*
 
